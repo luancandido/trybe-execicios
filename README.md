@@ -1,4 +1,7 @@
-# Trybe
+<h1 align="center">
+  <img alt="Trybe" src="logoreadme.png"/>
+  <br>
+</h1>
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Luan Candido](https://www.linkedin.com/in/luan-candido-dev/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
